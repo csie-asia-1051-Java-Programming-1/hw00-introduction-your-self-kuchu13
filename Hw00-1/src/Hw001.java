@@ -5,9 +5,9 @@ public class Hw001 {
 	public static void main(String[] args) {
 
 		
-		System.out.println("ï¿½ï¿½ï¿½wï¿½ï¿½");
+		System.out.println("¶ÀÐw¬À");
 		System.out.println("105021033");
-		System.out.println("ï¿½È¬wï¿½jï¿½Ç¸ï¿½uï¿½t");
+		System.out.println("¨È¬w¤j¾Ç¸ê¤u¨t");
 		
 	}
 
